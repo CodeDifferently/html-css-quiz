@@ -12,8 +12,9 @@
 * Open the newly cloned project in a code editor (Visual Studio Code, for example).
 
 ### Part 2 - Begin answering questions
-* Edit the `answers.html` file by adding answers in the form of an _ordered list_.
-    * Ensure each answer in the list corresponds with the correct number.
+* Edit the `answers.html` file by adding answers in the form of a _two column_ table.
+  * The first column should represent the answer number.
+  * The second column should be a description of the answer.
 
 ### Part 3 - Submit Quiz
 * Submit the quiz by _pushing_ the changes you have made to the `answer.html`.
