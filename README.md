@@ -15,7 +15,7 @@
 
 ## Part 3 - Submit Quiz
 * Submit the quiz by _pushing_ the changes you have made to the `answer.html`.
-* Execute the following commands
+* Execute the following commands from the _root directory_ to _push_ changes to your repository.
     * `git add .`
     * `git commit -m 'finished quiz'`
     * `git push -u origin master`
