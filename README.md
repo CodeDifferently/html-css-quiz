@@ -1,4 +1,6 @@
 # HTML and CSS Group Quiz 1
+### Viewing the Quiz
+* Click [here](https://codedifferently.github.io/html-css-quiz/) to view the quiz online.
 
 ### Part 1 - Clone the project
 * Select **one person** in the group to be the **one** to _fork_ the repository to their account.
@@ -19,8 +21,3 @@
     * `git add .`
     * `git commit -m 'finished quiz'`
     * `git push -u origin master`
-
-
-## Frequently Asked Questions
-* How do I view the project without cloning?
-  * Click [here](https://codedifferently.github.io/html-css-quiz/).
