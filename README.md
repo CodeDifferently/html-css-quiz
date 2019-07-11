@@ -1,6 +1,7 @@
 # HTML and CSS Group Quiz 1
 
 ## Part 1 - Clone the project
+* Select **one person** in the group to be the **one** to _fork_ the repository to their account.
 * Begin by _forking_ this project into a personal repository.
    * To do this, click the `Fork` button located at the top right of this page.
 * Navigate to your github profile to find the _newly forked repository_.
